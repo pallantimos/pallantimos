@@ -1,5 +1,5 @@
 
-# Welcome, my name os Aldar!
+# Welcome, my name is Aldar!
 
 ---
 
