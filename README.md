@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Abot me:
 
 I'm a beginner backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 . My journey into it began in 2020, with courses at Academ IT School, where I took the course “fundamentals of programming in Java.” After Academ IT School, I continued to study Java at JavaRush until 2021. In 2021, he entered the Higher College of Informatics of Novosibirsk State University. At VKI I learned the basics of Python, wrote a couple of simple games in pygame, wrote several simple games in the Unity engine, learned the basics of C++, tried to design websites using JavaScript, HTML and CSS. But I found my calling in developing the server side of websites (backend). As a result, I am currently writing a dissertation on the topic “Development of the server part of a WEB application for the tourist base “Kochevnik”.” 
@@ -12,7 +12,7 @@ I'm a beginner backend developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social media:
 
   <div id="badges">
     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
@@ -31,7 +31,7 @@ I'm a beginner backend developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@ I'm a beginner backend developer<img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
