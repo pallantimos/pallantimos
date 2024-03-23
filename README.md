@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Abot me:
+### :man_technologist: About me:
 
 I'm a beginner backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 . My journey into it began in 2020, with courses at Academ IT School, where I took the course “fundamentals of programming in Java.” After Academ IT School, I continued to study Java at JavaRush until 2021. In 2021, he entered the Higher College of Informatics of Novosibirsk State University. At VKI I learned the basics of Python, wrote a couple of simple games in pygame, wrote several simple games in the Unity engine, learned the basics of C++, tried to design websites using JavaScript, HTML and CSS. But I found my calling in developing the server side of websites (backend). As a result, I am currently writing a dissertation on the topic “Development of the server part of a WEB application for the tourist base “Kochevnik”.” 
